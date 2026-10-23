@@ -94,7 +94,7 @@
 ![Profile views](https://hits.sh/github.com/내아이디.svg?label=Profile%20views&color=EEA80C&labelColor=1B1B1B)
 ```
 
-이 저장소의 배지는 주소 `github.com/mmk-community/github-profile-examples` 로 세고 있습니다. 내 프로필에서는 `github.com/` 뒤를 내 아이디로 바꿉니다. 예전에 많이 쓰던 komarev.com 배지는 GitHub 화면에서 깨진 그림으로 보여서 쓰지 않습니다. 내가 새로고침한 것도 한 번으로 세니, 숫자는 참고로만 봅니다.
+이 저장소의 배지는 주소 `github.com/mmk-community/github-profile-examples` 로 세고 있습니다. 내 프로필에서는 `github.com/` 뒤를 내 아이디로 바꿉니다. 예전에 많이 쓰던 komarev.com 배지는 GitHub 화면에서 깨진 그림으로 보여서 쓰지 않습니다. 내가 연 것도 세니, 숫자는 참고로만 봅니다.
 
 ## 5. 모양 고르기: style 4종과 로고 빼기
 
