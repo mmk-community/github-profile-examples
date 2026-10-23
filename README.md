@@ -29,11 +29,11 @@
 메모 파일(`.md`) 맨 위에 배지를 한두 줄 달면, 글을 열자마자 상태와 분류와 걸린 시간이 한눈에 들어옵니다. 아래는 [생활 위키 예시](examples/life-wiki)의 [김치찌개](examples/life-wiki/요리/김치찌개.md) 노트 맨 위입니다.
 
 ![상태](https://img.shields.io/badge/상태-완료-2EA44F) ![분류](https://img.shields.io/badge/분류-요리-E36209) ![난이도](https://img.shields.io/badge/난이도-쉬움-2EA44F) ![시간](https://img.shields.io/badge/시간-20분-0969DA) ![별점](https://img.shields.io/badge/별점-★★★★☆-F2C94C) ![수정](https://img.shields.io/badge/수정-2026--10--23-555555)
-![#](https://img.shields.io/badge/%23-찌개-EAEEF2) ![#](https://img.shields.io/badge/%23-2인분-EAEEF2) [![출처](https://img.shields.io/badge/출처-엄마_레시피-8B949E)](https://example.com)
+![#](https://img.shields.io/badge/%23-찌개-6E7781) ![#](https://img.shields.io/badge/%23-2인분-6E7781) [![출처](https://img.shields.io/badge/출처-엄마_레시피-8B949E)](https://example.com)
 
 ```markdown
 ![상태](https://img.shields.io/badge/상태-완료-2EA44F) ![분류](https://img.shields.io/badge/분류-요리-E36209) ![난이도](https://img.shields.io/badge/난이도-쉬움-2EA44F) ![시간](https://img.shields.io/badge/시간-20분-0969DA) ![별점](https://img.shields.io/badge/별점-★★★★☆-F2C94C) ![수정](https://img.shields.io/badge/수정-2026--10--23-555555)
-![#](https://img.shields.io/badge/%23-찌개-EAEEF2) ![#](https://img.shields.io/badge/%23-2인분-EAEEF2) [![출처](https://img.shields.io/badge/출처-엄마_레시피-8B949E)](https://example.com)
+![#](https://img.shields.io/badge/%23-찌개-6E7781) ![#](https://img.shields.io/badge/%23-2인분-6E7781) [![출처](https://img.shields.io/badge/출처-엄마_레시피-8B949E)](https://example.com)
 ```
 
 - 배지 주소 모양은 `https://img.shields.io/badge/<왼쪽 글자>-<오른쪽 글자>-<색>` 입니다. 한글도 그대로 씁니다.

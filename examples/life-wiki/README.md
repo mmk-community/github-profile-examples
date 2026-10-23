@@ -31,6 +31,6 @@
 | 상태 | ![상태](https://img.shields.io/badge/상태-완료-2EA44F) ![상태](https://img.shields.io/badge/상태-작성_중-EEA80C) ![상태](https://img.shields.io/badge/상태-보류-8B949E) |
 | 분류 | ![분류](https://img.shields.io/badge/분류-요리-E36209) ![분류](https://img.shields.io/badge/분류-여행-0969DA) ![분류](https://img.shields.io/badge/분류-읽은_책-8250DF) ![분류](https://img.shields.io/badge/분류-업무_메모-1B1B1B) |
 | 난이도 | ![난이도](https://img.shields.io/badge/난이도-쉬움-2EA44F) ![난이도](https://img.shields.io/badge/난이도-보통-EEA80C) ![난이도](https://img.shields.io/badge/난이도-어려움-CF222E) |
-| 그 밖 | ![시간](https://img.shields.io/badge/시간-20분-0969DA) ![별점](https://img.shields.io/badge/별점-★★★★☆-F2C94C) ![수정](https://img.shields.io/badge/수정-2026--10--23-555555) ![#](https://img.shields.io/badge/%23-태그-EAEEF2) ![출처](https://img.shields.io/badge/출처-어디서-8B949E) |
+| 그 밖 | ![시간](https://img.shields.io/badge/시간-20분-0969DA) ![별점](https://img.shields.io/badge/별점-★★★★☆-F2C94C) ![수정](https://img.shields.io/badge/수정-2026--10--23-555555) ![#](https://img.shields.io/badge/%23-태그-6E7781) ![출처](https://img.shields.io/badge/출처-어디서-8B949E) |
 
 색은 처음에 한 번 정하고 계속 같은 색을 씁니다. 그래야 목차만 봐도 무엇이 끝났고 무엇이 아직인지 한눈에 들어옵니다.
