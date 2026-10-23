@@ -10,7 +10,7 @@
 
 ## 차례
 
-- [먼저 보기: 위키 노트 맨 위에 배지 달기](#먼저-보기-위키-노트-맨-위에-배지-달기)
+- [먼저 보기: 위키 README 맨 위에 배지 달기](#먼저-보기-위키-readme-맨-위에-배지-달기)
 
 1. [기술 배지](#1-기술-배지)
 2. [아이콘 한 줄(skillicons)](#2-아이콘-한-줄skillicons)
@@ -24,22 +24,25 @@
 
 ---
 
-## 먼저 보기: 위키 노트 맨 위에 배지 달기
+## 먼저 보기: 위키 README 맨 위에 배지 달기
 
-메모 파일(`.md`) 맨 위에 배지를 한두 줄 달면, 글을 열자마자 상태와 분류와 걸린 시간이 한눈에 들어옵니다. 아래는 [생활 위키 예시](examples/life-wiki)의 [김치찌개](examples/life-wiki/요리/김치찌개.md) 노트 맨 위입니다.
+배지는 사람이 처음 보는 곳, 바로 README 맨 위에 답니다. 저장소를 열자마자 「무슨 위키인지, 글이 몇 편인지, 언제 마지막으로 고쳤는지」가 한눈에 들어옵니다. 아래는 [생활 위키 예시](examples/life-wiki)의 README 맨 위입니다.
 
-![상태](https://img.shields.io/badge/상태-완료-2EA44F) ![분류](https://img.shields.io/badge/분류-요리-E36209) ![난이도](https://img.shields.io/badge/난이도-쉬움-2EA44F) ![시간](https://img.shields.io/badge/시간-20분-0969DA) ![별점](https://img.shields.io/badge/별점-★★★★☆-F2C94C) ![수정](https://img.shields.io/badge/수정-2026--10--23-555555)
-![#](https://img.shields.io/badge/%23-찌개-6E7781) ![#](https://img.shields.io/badge/%23-2인분-6E7781) [![출처](https://img.shields.io/badge/출처-엄마_레시피-8B949E)](https://example.com)
+![주제](https://img.shields.io/badge/주제-4개-555555) ![글](https://img.shields.io/badge/글-5편-555555) ![마지막 업데이트](https://img.shields.io/github/last-commit/mmk-community/github-profile-examples?path=examples/life-wiki&label=마지막%20업데이트&color=555555) ![공개 범위](https://img.shields.io/badge/공개_범위-공개-2EA44F)
+
+[![요리](https://img.shields.io/badge/요리-2편-E36209)](요리/README.md) [![여행](https://img.shields.io/badge/여행-1편-0969DA)](여행/README.md) [![읽은 책](https://img.shields.io/badge/읽은_책-1편-8250DF)](읽은-책/README.md) [![업무 메모](https://img.shields.io/badge/업무_메모-1편-1B1B1B)](업무-메모/README.md)
 
 ```markdown
-![상태](https://img.shields.io/badge/상태-완료-2EA44F) ![분류](https://img.shields.io/badge/분류-요리-E36209) ![난이도](https://img.shields.io/badge/난이도-쉬움-2EA44F) ![시간](https://img.shields.io/badge/시간-20분-0969DA) ![별점](https://img.shields.io/badge/별점-★★★★☆-F2C94C) ![수정](https://img.shields.io/badge/수정-2026--10--23-555555)
-![#](https://img.shields.io/badge/%23-찌개-6E7781) ![#](https://img.shields.io/badge/%23-2인분-6E7781) [![출처](https://img.shields.io/badge/출처-엄마_레시피-8B949E)](https://example.com)
+![주제](https://img.shields.io/badge/주제-4개-555555) ![글](https://img.shields.io/badge/글-5편-555555) ![마지막 업데이트](https://img.shields.io/github/last-commit/mmk-community/github-profile-examples?path=examples/life-wiki&label=마지막%20업데이트&color=555555) ![공개 범위](https://img.shields.io/badge/공개_범위-공개-2EA44F)
+
+[![요리](https://img.shields.io/badge/요리-2편-E36209)](요리/README.md) [![여행](https://img.shields.io/badge/여행-1편-0969DA)](여행/README.md) [![읽은 책](https://img.shields.io/badge/읽은_책-1편-8250DF)](읽은-책/README.md) [![업무 메모](https://img.shields.io/badge/업무_메모-1편-1B1B1B)](업무-메모/README.md)
 ```
 
 - 배지 주소 모양은 `https://img.shields.io/badge/<왼쪽 글자>-<오른쪽 글자>-<색>` 입니다. 한글도 그대로 씁니다.
-- 날짜처럼 글자 안에 하이픈이 있으면 `--` 로, 띄어쓰기는 `_` 로 씁니다. `2026-10-23` 은 `2026--10--23` 이 됩니다.
-- `#` 은 주소에서 `%23` 으로 씁니다.
-- 색은 [생활 위키 목차](examples/life-wiki)의 「배지 색 규칙」처럼 한 번 정하고 계속 같은 색을 씁니다.
+- 날짜처럼 글자 안에 하이픈이 있으면 `--` 로, 띄어쓰기는 `_` 로 씁니다.
+- 주제 배지를 `[ ](폴더/README.md)` 로 감싸면 누를 때 그 폴더 목차로 갑니다.
+- 마지막 업데이트 배지는 공개 저장소에서만 나옵니다. 비공개 위키라면 `수정-2026--10--23` 처럼 날짜를 직접 씁니다.
+- 폴더마다 있는 README 맨 위에도 분류와 글 수 배지를 답니다. 노트 파일에는 배지를 달지 않고 내용만 둡니다.
 
 ## 1. 기술 배지
 
@@ -180,6 +183,6 @@
 | [examples/profile-readme/developer.md](examples/profile-readme/developer.md) | 개발자형 프로필 README: 배지, 통계 카드, 대표 프로젝트 |
 | [examples/profile-readme/first-timer.md](examples/profile-readme/first-timer.md) | 코딩을 처음 하는 분을 위한 프로필 README: 소개, 위키 배지, 요즘 쓴 글 |
 | [examples/profile-readme/minimal.md](examples/profile-readme/minimal.md) | 가장 짧은 프로필 README: 세 줄 |
-| [examples/life-wiki/](examples/life-wiki) | 생활 위키 예시: 노트마다 맨 위 배지, 배지 달린 목차, 배지 색 규칙 |
+| [examples/life-wiki/](examples/life-wiki) | 생활 위키 예시: README 맨 위 배지, 배지 달린 목차, 폴더 README 배지, 배지 색 규칙 |
 
 프로필 README 를 쓰려면 내 아이디와 똑같은 이름의 공개 저장소를 만들고, 위 파일 하나의 내용을 그 저장소의 `README.md` 에 붙여 넣습니다.
