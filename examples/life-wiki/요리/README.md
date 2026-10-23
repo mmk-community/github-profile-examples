@@ -1,5 +1,7 @@
 # 요리
 
+![분류](https://img.shields.io/badge/분류-요리-E36209) ![글](https://img.shields.io/badge/글-2편-1B1B1B)
+
 | 글 | 한 줄 |
 |---|---|
 | [김치찌개](김치찌개.md) | 20분, 신 김치 2컵이면 끝 |
