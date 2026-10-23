@@ -30,12 +30,12 @@
 
 ![주제](https://img.shields.io/badge/주제-4개-555555) ![글](https://img.shields.io/badge/글-5편-555555) ![마지막 업데이트](https://img.shields.io/github/last-commit/mmk-community/github-profile-examples?path=examples/life-wiki&label=마지막%20업데이트&color=555555) ![공개 범위](https://img.shields.io/badge/공개_범위-공개-2EA44F)
 
-[![요리](https://img.shields.io/badge/요리-2편-E36209)](examples/life-wiki/요리/README.md) [![여행](https://img.shields.io/badge/여행-1편-0969DA)](examples/life-wiki/여행/README.md) [![읽은 책](https://img.shields.io/badge/읽은_책-1편-8250DF)](examples/life-wiki/읽은-책/README.md) [![업무 메모](https://img.shields.io/badge/업무_메모-1편-1B1B1B)](examples/life-wiki/업무-메모/README.md)
+[![요리](https://img.shields.io/badge/요리-2편-E36209)](examples/life-wiki/요리/README.md) [![여행](https://img.shields.io/badge/여행-1편-0969DA)](examples/life-wiki/여행/README.md) [![읽은 책](https://img.shields.io/badge/읽은_책-1편-8250DF)](examples/life-wiki/읽은-책/README.md) [![업무 메모](https://img.shields.io/badge/업무_메모-1편-6B7280)](examples/life-wiki/업무-메모/README.md)
 
 ```markdown
 ![주제](https://img.shields.io/badge/주제-4개-555555) ![글](https://img.shields.io/badge/글-5편-555555) ![마지막 업데이트](https://img.shields.io/github/last-commit/mmk-community/github-profile-examples?path=examples/life-wiki&label=마지막%20업데이트&color=555555) ![공개 범위](https://img.shields.io/badge/공개_범위-공개-2EA44F)
 
-[![요리](https://img.shields.io/badge/요리-2편-E36209)](요리/README.md) [![여행](https://img.shields.io/badge/여행-1편-0969DA)](여행/README.md) [![읽은 책](https://img.shields.io/badge/읽은_책-1편-8250DF)](읽은-책/README.md) [![업무 메모](https://img.shields.io/badge/업무_메모-1편-1B1B1B)](업무-메모/README.md)
+[![요리](https://img.shields.io/badge/요리-2편-E36209)](요리/README.md) [![여행](https://img.shields.io/badge/여행-1편-0969DA)](여행/README.md) [![읽은 책](https://img.shields.io/badge/읽은_책-1편-8250DF)](읽은-책/README.md) [![업무 메모](https://img.shields.io/badge/업무_메모-1편-6B7280)](업무-메모/README.md)
 ```
 
 - 배지 주소 모양은 `https://img.shields.io/badge/<왼쪽 글자>-<오른쪽 글자>-<색>` 입니다. 한글도 그대로 씁니다.
