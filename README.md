@@ -2,7 +2,7 @@
 
 [![매직밀키트 커뮤니티](https://img.shields.io/badge/매직밀키트-커뮤니티_강의-1B1B1B)](https://www.skool.com/stack-small-wins-2688)
 ![마지막 업데이트](https://img.shields.io/github/last-commit/mmk-community/github-profile-examples?label=마지막%20업데이트&color=1B1B1B)
-![방문](https://komarev.com/ghpvc/?username=mmk-community-github-profile-examples&label=방문&color=1B1B1B&style=flat)
+![방문](https://hits.sh/github.com/mmk-community/github-profile-examples.svg?label=%EB%B0%A9%EB%AC%B8&color=EEA80C&labelColor=1B1B1B)
 
 「GitHub 프로필 꾸미기와 개인 위키」 강의에서 쓰는 예시 모음입니다. 배지와 카드가 실제로 어떻게 보이는지 이 화면에서 바로 보고, 아래 코드를 복사해 내 README 에 붙여 넣으면 됩니다.
 
@@ -88,13 +88,13 @@
 
 ## 4. 방문자 배지
 
-![방문](https://komarev.com/ghpvc/?username=mmk-community-github-profile-examples&label=Profile%20views&color=1B1B1B&style=flat)
+![방문](https://hits.sh/github.com/mmk-community/github-profile-examples.svg?label=Profile%20views&color=EEA80C&labelColor=1B1B1B)
 
 ```markdown
-![Profile views](https://komarev.com/ghpvc/?username=내아이디&label=Profile%20views&color=1B1B1B&style=flat)
+![Profile views](https://hits.sh/github.com/내아이디.svg?label=Profile%20views&color=EEA80C&labelColor=1B1B1B)
 ```
 
-이 저장소의 배지는 저장소 이름으로 세고 있습니다. 내 프로필에서는 `username=` 뒤를 내 아이디로 바꿉니다. 내가 새로고침한 것도 한 번으로 세니, 숫자는 참고로만 봅니다.
+이 저장소의 배지는 주소 `github.com/mmk-community/github-profile-examples` 로 세고 있습니다. 내 프로필에서는 `github.com/` 뒤를 내 아이디로 바꿉니다. 예전에 많이 쓰던 komarev.com 배지는 GitHub 화면에서 깨진 그림으로 보여서 쓰지 않습니다. 내가 새로고침한 것도 한 번으로 세니, 숫자는 참고로만 봅니다.
 
 ## 5. 모양 고르기: style 4종과 로고 빼기
 
